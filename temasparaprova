@@ -1,10 +1,23 @@
-
 1 - O que é algoritmo
+R:Sequência de passos lógicos finita.
+
 2 - O que é estrutura de dados
+R:A estrutura de dados definem a organização, métodos de acesso e opções de processamento para a informação manipulada pelo programa.
+
 3 - Como classificamos a linguagem C
+R:
+
 4 - Qual a função das bibliotecas da linguagem, cite 5
+R:
+
 6 - Defina, lista, fila e pilha, First in, First out FIFO E LIFO
+R:
+
 7 - A linguagem c é case sensitive
+R:Sim
+
 8 - Cite exemplos de palavras reservadas
+R:printf, int, main, float, char e system.
+
 9 - Crie um exemplo pratico de Fila, e crie um exemplo prático de LIFO
-t
+R:
