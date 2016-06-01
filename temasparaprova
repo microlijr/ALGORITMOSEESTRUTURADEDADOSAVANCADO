@@ -5,10 +5,20 @@ R:Sequência de passos lógicos finita.
 R:A estrutura de dados definem a organização, métodos de acesso e opções de processamento para a informação manipulada pelo programa.
 
 3 - Como classificamos a linguagem C
-R:
+R:A linguagem C é considerada uma linguagem de nível médio, pois combina elementos de linguagem de alto nível com funcionalidade da 
+linguagem Assembly.
 
 4 - Qual a função das bibliotecas da linguagem, cite 5
-R:
+R: São os arquivos de cabeçalho que possibilitam o uso das funções em C. Quando você abre um documento no Dev-C++ por exemplo,
+dois arquivos de cabeçalho (também conhecidos como bibliotecas) são incluídos automaticamente:
+
+#include <stdio.h> // Tratamento de entrada/saída.
+#include <stdlib.h> // implementa funções para diversas operações, incluindo conversão, alocação de memória,controle de processo,
+funções de busca e ordenação.
+#include <ctype.h> // classificação e transformação de caracteres
+#include<math.h> // uso de operações matemáticas
+#include<string.h> // manipulação de strings
+#include<time.h> // manipulação de datas e horas
 
 6 - Defina, lista, fila e pilha, First in, First out FIFO E LIFO
 R:
